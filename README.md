@@ -456,17 +456,7 @@ This project builds upon ideas from:
 
 ---
 
-# License
 
-Specify your preferred license here.
-
-Example:
-
-```text
-MIT License
-```
-
----
 
 # Contact
 
